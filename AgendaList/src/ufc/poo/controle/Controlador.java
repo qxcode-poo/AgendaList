@@ -1,4 +1,4 @@
-package ufc.poo.controlador;
+package ufc.poo.controle;
 
 import ufc.poo.armazenamento.ListaContatos;
 import ufc.poo.modelo.Contato;
