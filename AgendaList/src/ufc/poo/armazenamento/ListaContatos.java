@@ -7,7 +7,7 @@ import java.util.List;
 
 import ufc.poo.modelo.Contato;
 import ufc.poo.repositorio.IRepositorioContato;
-
+//adicao de comentario pra ficar no david
 public class ListaContatos implements IRepositorioContato {
 	List<Contato> contatos;
 
