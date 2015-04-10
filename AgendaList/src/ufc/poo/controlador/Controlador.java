@@ -6,6 +6,7 @@ import ufc.poo.modelo.Contato;
 public class Controlador {
 	public static void main(String[] args) {
 		
+		
 		ListaContatos listaContatos = new ListaContatos();
 		
 		listaContatos.cadastrarContato(new Contato("davi","sena.ufc@gmail.com","1234"));
